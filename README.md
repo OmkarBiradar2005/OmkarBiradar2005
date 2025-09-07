@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">JHey there 👋, I'm Omkar Biradar</h1>
+<h1 align="center">Hey there 👋, I'm Omkar Biradar</h1>
 
 ###
 
