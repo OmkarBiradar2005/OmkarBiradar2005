@@ -71,8 +71,8 @@ I'm Omkar — an aspiring Software Developer currently working as a <strong>Pyth
 <h3 align="left">📫 Contact</h3>
 
 <div align="left">
-- Email: <biradaromkar2005@gmail.com>  
-- LinkedIn: <[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/omkar-biradar-0434ba331/)>  
+- Email: biradaromkar2005@gmail.com <br/>
+- LinkedIn: https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/omkar-biradar-0434ba331/  
 
 </div>
 
